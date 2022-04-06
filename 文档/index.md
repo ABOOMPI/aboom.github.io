@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 梦幻 •  涌现
 
 You can use the [editor on GitHub](https://github.com/ABOOMPI/aboom.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
